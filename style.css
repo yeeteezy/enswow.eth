@@ -8,7 +8,7 @@ body {
   width: 100%;
   max-width: 320px;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 60px;
 }
 .profile {
   text-align: center;
@@ -22,7 +22,7 @@ body {
   display: block;
 }
 .at {
-  font-size: 13px;
+  font-size: 18px;
 }
 .links ul {
   list-style: none;
